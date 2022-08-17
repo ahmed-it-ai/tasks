@@ -1,0 +1,7 @@
+E:\AHMED\الدروس\app\C#\اختبارات\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\AHMED\الدروس\app\C#\اختبارات\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\AHMED\الدروس\app\C#\اختبارات\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\AHMED\الدروس\app\C#\اختبارات\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\AHMED\الدروس\app\C#\اختبارات\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\AHMED\الدروس\app\C#\اختبارات\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\AHMED\الدروس\app\C#\اختبارات\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
